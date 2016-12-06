@@ -6,5 +6,5 @@
   "author": "Shaw Li <shaw.s.li@gmail.com>",
   "scripts": {
     "start": "node server.js"
-  },
+  }
 }
