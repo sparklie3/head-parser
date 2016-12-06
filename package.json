@@ -1,17 +1,10 @@
 {
   "name": "head-parser",
   "version": "1.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "description": "Parsing the head from a GET request",
   "main": "server.js",
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
-  "dependencies": {
-    "async": "~0.2.8",
-    "express": "^3.2.6",
-    "socket.io": "~0.9.14"
-  },
+  "author": "Shaw Li <shaw.s.li@gmail.com>",
   "scripts": {
     "start": "node server.js"
   },
-  "devDependencies": {},
-  "license": "ISC"
 }
